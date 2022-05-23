@@ -1,6 +1,8 @@
 # EvalExpr
 Epitech Project, EvalExpr
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=twisterrr.fun_evalexpr_2021&left_color=purple&right_color=grey)
+
 The goal of this project is to implement a functional EvalExpr, that is able to parse a string given as argument and display the resulting value, followed by a new line.
 
 ## Operators 
